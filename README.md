@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robin
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Full-Stack Development
+- 👀 I’m interested in Backend
+
 
 <!---
 shiroichi28/shiroichi28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
