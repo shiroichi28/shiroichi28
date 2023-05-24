@@ -11,7 +11,7 @@ I'm a Full Stack Developer with a specialization in backend development.I have a
 * ✉️  You can contact me at [manigandans028@gmail.com](mailto:manigandans028@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm Batman
+
 
 ### Skills
 
