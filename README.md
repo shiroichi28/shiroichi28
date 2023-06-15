@@ -9,7 +9,7 @@ I'm a Full Stack Developer with a specialization in backend development.I have a
 * 🌍  I'm based in Tamil Nadu, India
 * 🖥️  See my portfolio at [Manigandan](http://shiroichi28.github.io/Portfolio/)
 * ✉️  You can contact me at [manigandans028@gmail.com](mailto:manigandans028@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm currently learning PHP
 * 🤝  I'm open to collaborating on Projects
 
 
